@@ -1,0 +1,2 @@
+# wei-cli
+init project
