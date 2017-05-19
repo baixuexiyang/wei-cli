@@ -9,7 +9,7 @@ or
 ```
 git clone https://github.com/baixuexiyang/wei-cli.git
 
-cd scion && npm install
+cd wei-cli && npm install
 
 npm link
 ```
