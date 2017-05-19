@@ -12,7 +12,7 @@ program
   .version(require('../package').version )
 
 program
-  .usage('welcome to use we-cli.\ninit project.')
+  .usage('welcome to use wei-cli.\ninit project.')
 
 program
   .command('add')
